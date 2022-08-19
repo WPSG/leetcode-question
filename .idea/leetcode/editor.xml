@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q452MinimumNumberOfArrowsToBurstBalloons.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/doc/content/Q452MinimumNumberOfArrowsToBurstBalloons.md" />
+              <option name="frontendQuestionId" value="leetcode.cn452" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q452MinimumNumberOfArrowsToBurstBalloons.java" />
+              <option name="titleSlug" value="minimum-number-of-arrows-to-burst-balloons" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q455AssignCookies.java">
           <value>
             <LeetcodeEditor>
@@ -66,6 +77,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q5LongestPalindromicSubstring.java" />
               <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q605CanPlaceFlowers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/doc/content/Q605CanPlaceFlowers.md" />
+              <option name="frontendQuestionId" value="leetcode.cn605" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q605CanPlaceFlowers.java" />
+              <option name="titleSlug" value="can-place-flowers" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -1,5 +1,7 @@
 package com.roc.leetcode.editor.cn;
 
+import java.util.Arrays;
+
 /**
 给定一个区间的集合 intervals ，其中 intervals[i] = [starti, endi] 。返回 需要移除区间的最小数量，使剩余区间互不重叠 
 。 
@@ -53,8 +55,32 @@ public class Q435NonOverlappingIntervals{
   
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
+        /*
+         * 在选择要保留区间时，区间的结尾十分重要：选择的区间结尾越小，余留给其它区间的空间就越大，就越能保留更多的区间。
+         * 因此，我们采取的贪心策略为，优先保留结尾小且不相交的区间。
+         * 具体实现方法为，先把区间按照结尾的大小进行增序排序，每次选择结尾最小且和前一个选择的区间不重叠的区间。
+         * */
         public int eraseOverlapIntervals(int[][] intervals) {
-            return 0;
+            if(intervals.length == 0) {
+                return 0;
+            }
+//            也可以使用lambda表达式
+            Arrays.sort(intervals, (o1, o2) -> o1[1] - o2[1]);
+            /*Arrays.sort(intervals, new Comparator<int[]>() {
+                @Override
+                public int compare(int[] o1, int[] o2) {
+                    return o1[1] - o2[1];
+                }
+            });*/
+            int right = intervals[0][1];
+            int ans = 1;
+            for (int i = 1; i < intervals.length; i++) {
+                if(intervals[i][0] >= right) {
+                    ans++;
+                    right = intervals[i][1];
+                }
+            }
+            return intervals.length - ans;
         }
     }
     //leetcode submit region end(Prohibit modification and deletion)
