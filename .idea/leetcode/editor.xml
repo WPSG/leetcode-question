@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q76MinimumWindowSubstring.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/doc/content/Q76MinimumWindowSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode.cn76" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q76MinimumWindowSubstring.java" />
+              <option name="titleSlug" value="minimum-window-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q88MergeSortedArray.java">
           <value>
             <LeetcodeEditor>
