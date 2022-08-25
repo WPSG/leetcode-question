@@ -124,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q524LongestWordInDictionaryThroughDeleting.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/doc/content/Q524LongestWordInDictionaryThroughDeleting.md" />
+              <option name="frontendQuestionId" value="leetcode.cn524" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q524LongestWordInDictionaryThroughDeleting.java" />
+              <option name="titleSlug" value="longest-word-in-dictionary-through-deleting" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q5LongestPalindromicSubstring.java">
           <value>
             <LeetcodeEditor>
@@ -143,6 +154,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q605CanPlaceFlowers.java" />
               <option name="titleSlug" value="can-place-flowers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q633SumOfSquareNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/doc/content/Q633SumOfSquareNumbers.md" />
+              <option name="frontendQuestionId" value="leetcode.cn633" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q633SumOfSquareNumbers.java" />
+              <option name="titleSlug" value="sum-of-square-numbers" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -176,6 +198,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q665NonDecreasingArray.java" />
               <option name="titleSlug" value="non-decreasing-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q680ValidPalindromeIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/doc/content/Q680ValidPalindromeIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn680" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/com/roc/leetcode/editor/cn/Q680ValidPalindromeIi.java" />
+              <option name="titleSlug" value="valid-palindrome-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
